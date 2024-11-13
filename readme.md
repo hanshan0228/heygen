@@ -1,4 +1,4 @@
-HeyGen is an innovative AI video generation platform that simplifies the creation of engaging videos for various applications, including business promotions, social media content, and personal projects. With a user-friendly interface and powerful features, HeyGen allows users to produce professional-quality videos quickly and efficiently. For more information, visit the [HeyGen official website](https://www.heygen.com).
+HeyGen is an innovative AI video generation platform that simplifies the creation of engaging videos for various applications, including business promotions, social media content, and personal projects. With a user-friendly interface and powerful features, HeyGen allows users to produce professional-quality videos quickly and efficiently. For more information, visit the [HeyGen official website](https://heygen.com/?sid=rewardful&via=samantha).
 
 ## Features of HeyGen
 
@@ -15,9 +15,9 @@ HeyGen offers various subscription packages to cater to different user needs:
 | **Plan Type**     | **Features Included**                                      | **Pricing**        |
 |-------------------|-----------------------------------------------------------|---------------------|
 | **Free Plan**     | Limited access to templates and avatars                   | $0                  |
-| **Basic Plan**    | Access to standard templates, avatars, and export options | $19/month [Buy](https://www.heygen.com)           |
-| **Pro Plan**      | Full access to all templates, avatars, and premium features| $49/month [Buy](https://www.heygen.com)           |
-| **Enterprise Plan**| Custom solutions for businesses with advanced needs       | Contact for pricing [Buy](https://www.heygen.com)  |
+| **Basic Plan**    | Access to standard templates, avatars, and export options | $19/month [Buy](https://heygen.com/?sid=rewardful&via=samantha)           |
+| **Pro Plan**      | Full access to all templates, avatars, and premium features| $49/month [Buy](https://heygen.com/?sid=rewardful&via=samantha)         |
+| **Enterprise Plan**| Custom solutions for businesses with advanced needs       | Contact for pricing [Buy](https://heygen.com/?sid=rewardful&via=samantha)  |
 
 ### Additional Benefits
 
